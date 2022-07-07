@@ -1,0 +1,11 @@
+server:
+  port: 8000
+
+datasource:
+  driverName: mysql
+  host: 42.192.210.141
+  port: 3306
+  database: gintest
+  username: gin
+  password: gin123456
+  charset: utf8
